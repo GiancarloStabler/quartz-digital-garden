@@ -1,8 +1,9 @@
 ---
 dg-publish: true
 dg-home: true
+draft: true
 ---
-This vault has been a work in progress since 11-09-2024. TEST TEST TEST
+This vault has been a work in progress since 11-09-2024.
 
 This will serve as a vault to store everything related to my study of math from my second year of undergrad through whenever I stop maintaining this.
 
