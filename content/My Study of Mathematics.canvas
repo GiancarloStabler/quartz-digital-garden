@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"7839c3396c7d2087","type":"file","file":"Courses/MATH 2110Q.md","x":-1920,"y":-1250,"width":400,"height":400},
+		{"id":"77d488db8773f03c","type":"file","file":"Courses/MATH 2710.md","x":-1920,"y":-320,"width":400,"height":400},
+		{"id":"c9f71598c71024d6","type":"file","file":"Courses/MATH 2210Q.md","x":-1320,"y":-320,"width":400,"height":400},
+		{"id":"703b8d6647db1fda","type":"file","file":"Courses/MATH 2410Q.md","x":-720,"y":-320,"width":400,"height":400},
+		{"id":"60b3e9ade1c67435","type":"file","file":"Courses/MATH 2705W.md","x":-120,"y":-320,"width":400,"height":400},
+		{"id":"8830284c6cb00e72","type":"file","file":"Courses/MATH 3230.md","x":-1920,"y":600,"width":400,"height":400},
+		{"id":"271d0f94f55d462b","type":"file","file":"Courses/MATH 3240.md","x":-1320,"y":600,"width":400,"height":400},
+		{"id":"b0af95daaa75e2f2","type":"file","file":"Courses/MATH 3094.md","x":-720,"y":600,"width":400,"height":400},
+		{"id":"3364babb49dc2e6f","type":"text","text":"# Fall 2023","x":-2360,"y":-1080,"width":250,"height":60},
+		{"id":"6c75da3f2ab81ed5","type":"text","text":"# Spring 2024","x":-2360,"y":-150,"width":250,"height":60},
+		{"id":"c3ed1dec7cb5f895","type":"text","text":"# Fall 2024","x":-2360,"y":770,"width":250,"height":60},
+		{"id":"cf279c7f122a568e","type":"text","text":"# Spring 2025","x":-2360,"y":1690,"width":250,"height":60},
+		{"id":"5d55ac43677cab46","type":"file","file":"Courses/MATH 3150.md","x":-1920,"y":1520,"width":400,"height":400},
+		{"id":"267caf03afeea640","type":"file","file":"Courses/MATH 3210.md","x":-720,"y":1520,"width":400,"height":400},
+		{"id":"dc875db808a30afc","type":"file","file":"Courses/MATH 3231.md","x":-1320,"y":1520,"width":400,"height":400},
+		{"id":"2b10cc537fca56ed","type":"file","file":"Courses/MATH 3265.md","x":-120,"y":1520,"width":400,"height":400},
+		{"id":"b54c1bdd548f6ecb","type":"text","text":"# Undergrad Math","x":-1000,"y":-1520,"width":280,"height":60,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"04aa893d63531408","fromNode":"7839c3396c7d2087","fromSide":"bottom","toNode":"703b8d6647db1fda","toSide":"top"},
+		{"id":"3c83512c7ac0fb28","fromNode":"c9f71598c71024d6","fromSide":"bottom","toNode":"b0af95daaa75e2f2","toSide":"top"},
+		{"id":"067f341a812f2961","fromNode":"c9f71598c71024d6","fromSide":"bottom","toNode":"267caf03afeea640","toSide":"top"},
+		{"id":"d07d150343be3b3d","fromNode":"8830284c6cb00e72","fromSide":"bottom","toNode":"dc875db808a30afc","toSide":"top"},
+		{"id":"eab48a3b089c41f4","fromNode":"8830284c6cb00e72","fromSide":"right","toNode":"b0af95daaa75e2f2","toSide":"left"},
+		{"id":"ab30c95d5008bdb3","fromNode":"267caf03afeea640","fromSide":"left","toNode":"dc875db808a30afc","toSide":"right"},
+		{"id":"7fb4212d73748fa0","fromNode":"dc875db808a30afc","fromSide":"right","toNode":"267caf03afeea640","toSide":"left"}
+	]
+}
