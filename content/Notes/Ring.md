@@ -1,6 +1,6 @@
 #definition #abstract-algebra/ring-theory 
 
-Rings generalize [[Group|groups]].
+Rings generalize [[Field|fields]].
 #### Definition
 We define $(R, +, \cdot)$ as a ring if $R$ is a set and,
 1) $(R, +)$ is a commutative group (identity element $0=0_{R}$).
@@ -17,5 +17,5 @@ Furthermore, if,
 - $R$ is a commutative division ring, say $R$ is a [[field]].
 
 #### Examples
-
+1) $Q = \{ a + bi + cj + dk \mid a,b,c,d \in \mathbb{R} \}$ is the quaternion division ring.
 
