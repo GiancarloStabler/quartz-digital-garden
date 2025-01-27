@@ -1,12 +1,13 @@
-#tags #course
+#tags #course 
 ### Course Information
 ```
-Name::
+Name:: 
 Course Type:: 
-Professor::
-Term::
-Credits::
+Professor:: 
+Term:: 
+Credits:: 
 ```
 ### Course Texts
+
 
 ### Content
