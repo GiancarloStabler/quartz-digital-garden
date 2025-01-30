@@ -14,7 +14,7 @@ Furthermore, if,
 - $\cdot$ is commutative, we say $R$ is a *commutative* ring.
 - $\cdot$ has identity element $1_{R} = 1$, say $R$ is a *unital* ring.
 - $R$ is unital and $\forall x \neq 0,\ \exists x ^{-1} \in R$, $x \cdot x ^{-1} = x ^{-1} \cdot x = 1_{R}$, say $R$ is a *division* ring.
-- $R$ is a commutative division ring, say $R$ is a [[field]].
+- $R$ is a commutative division ring, say $R$ is a [[Field]].
 
 #### Examples
 1) $Q = \{ a + bi + cj + dk \mid a,b,c,d \in \mathbb{R} \}$ is the quaternion division ring.
