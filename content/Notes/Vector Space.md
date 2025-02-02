@@ -10,7 +10,7 @@ A vector space (over a field $\mathbb{F}$) is a set $V$ along with an addition a
 6) **Distributivity**. $a(u+v) = au + av$ and $(a+b)v = av+bv$ for all $a,b \in \mathbb{F}$ and $u,v \in V$.
 
 #### Addition
-An addition on a set $V$ is a function ($+$) that assigns an element $u+ v \in V$ to each pair of elements $u,v \in V$. 
+An addition on a set $V$ is a function ($+$) that assigns an element $u+ v \in V$ to each pair of elements $u,v \in V.$
 
 #### Scalar Multiplication
 A scalar multiplication on $V$ is a function that assigns an element $\lambda v \in V$ to each $\lambda \in \mathbb{F}$, and $v\in V$.
