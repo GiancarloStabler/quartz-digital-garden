@@ -1,7 +1,7 @@
 #definition #abstract-algebra/ring-theory 
 
 #### Definition
-For rings $(R, +, \cdot)$ and $(S, +, \cdot)$, $f: (R,+, \cdot) \to (S, +, \cdot)$ is a morphism if,
+For [[Ring|rings]] $(R, +, \cdot)$ and $(S, +, \cdot)$, $f: (R,+, \cdot) \to (S, +, \cdot)$ is a morphism if,
 1) $f(r+r')= f(r) + f(r')$ for all $r,r' \in R$.
 2) $f(r \cdot r') = f(r) \cdot f(r')$ for all $r,r' \in R$.
 
