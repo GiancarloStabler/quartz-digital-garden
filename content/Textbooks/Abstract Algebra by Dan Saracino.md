@@ -16,7 +16,7 @@ Sections:: Section 0-15
 2) [[Group|Groups]]
 3) Fundamental Theorems about Groups
 4) Powers of an Element; [[Cyclic Group|Cyclic Groups]]
-5) Subgroups
+5) [[Subgroup|Subgroups]]
 6) Direct Products
 7) Functions
 8) Symmetric Groups
@@ -26,4 +26,4 @@ Sections:: Section 0-15
 12) [[Group Homomorphism|Homomorphisms]]
 13) Homomorphisms and Normal Subgroups
 14) Direct Products and Finite Abelian Groups
-15) Sylow Theorems
+15) [[Sylow Theorems]]
