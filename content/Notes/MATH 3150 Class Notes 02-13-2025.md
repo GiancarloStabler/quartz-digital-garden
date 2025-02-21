@@ -1,7 +1,7 @@
 #note #analysis/real-analysis 
 
 #### Recall
-For $L\in \mathbb{R}$, $\lim_{ n \to \infty } x_{n}=L$ if $\forall\varepsilon > 0$, there exists $N >0$ so that $\left\lvert x+n - L \right\rvert < \varepsilon$, for all $n > N$.
+For $L\in \mathbb{R}$, $\lim_{ n \to \infty } x_{n}=L$ if $\forall\varepsilon > 0$, there exists $N >0$ so that $\left\lvert x_{n} - L \right\rvert < \varepsilon$, for all $n > N$.
 
 ### [[Monotone Convergence Theorem]]
 
