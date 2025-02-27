@@ -4,13 +4,13 @@
 
 
 #### Formal Statement
-Consider a finite-dimensional vector space $V$, and $T\in \mathscr{L}(V,W)$. Then $\operatorname{range}T$ is a finite-dimensional subspace of $W$ and,
+Consider a [[finite-dimensional]] [[vector space]] $V$, and $T\in \mathscr{L}(V,W)$. Then $\operatorname{range}T$ is a finite-dimensional [[subspace]] of $W$ and,
 $$
 \dim V =\dim (\operatorname{null}T) + \dim (\operatorname{range}T).
 $$
 
 #### Corollaries
-1) If $V,W$ are finite-dimensional vector spaces with $\dim V > \dim W$, there exist no injective linear maps $T: V\to W$.
+1) If $V,W$ are finite-dimensional vector spaces with $\dim V > \dim W$, there exist no injective [[Linear Map|linear maps]] $T: V\to W$.
 2) If $V,W$ are finite-dimensional vector spaces with $\dim V < \dim W$, there exist no surjective linear maps $T: V\to W$. 
 3) A homogenous system with more variables than equations has non-trivial solutions.
 4) A system with more equations than variables has no solution for some choice of constant terms.
