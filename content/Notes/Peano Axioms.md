@@ -1,4 +1,4 @@
-#definition #analysis #natural-numbers
+#definition #analysis/real-analysis #natural-numbers
 
 #### Definition
 The set of natural numbers is the set described by the following:
