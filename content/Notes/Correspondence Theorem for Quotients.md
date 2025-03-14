@@ -18,6 +18,5 @@ If $x\in J, x+I \in {^{\textstyle J}\big/_{\textstyle I}}$, and if $r \in R, r+I
 
 Then, the proof is as for groups.
 
-#### Examples
-
+#### Examples 
 
